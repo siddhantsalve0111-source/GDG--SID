@@ -112,7 +112,7 @@ When I'm not coding, you'll find me playing cricket or photography, acting, sing
     },
     {
       degree: "SSC (10th Grade)",
-      institution: "XYZ High School, Pune",
+      institution: "st patricks High School, Pune",
       duration: "2022",
       description: "Scored 80% with distinction.",
     },
